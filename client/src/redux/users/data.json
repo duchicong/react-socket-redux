@@ -1,0 +1,56 @@
+{
+  "data": {
+    "items": [
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_01.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "OFF_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_02.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_03.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "OFF_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_04.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "OFF_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_05.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_06.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_07.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_08.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_09.jpg"
+      },
+      {
+        "nickname": "Prénom Nom",
+        "status": "ON_LINE",
+        "urlImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/chat_avatar_10.jpg"
+      }
+    ]
+  }
+}
